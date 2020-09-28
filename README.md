@@ -19,7 +19,11 @@
 ```bash
 $ git clone https://github.com/jedrzejd/flappybird.git
 $ cd flappybird
-$ python3 flappy_bird.py
+$ python3 -m venv venv
+$ . venv/bin/activate
+$ pip install -r requirements.txt
+$ python flappy_bird.py
+$ deactivate
 ```
 ## Technologies
 * Python 3
