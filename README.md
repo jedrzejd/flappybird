@@ -12,8 +12,15 @@
 
 ## Screenshot
  
- <img src="https://raw.githubusercontent.com/jedrzejd/flappybird/master/imgs/screenshot.png" width="300"> 
-  
+ <img src="https://raw.githubusercontent.com/jedrzejd/flappybird/master/imgs/screenshot.png" width="300">
+ 
+## Running the application
+
+```bash
+$ git clone https://github.com/jedrzejd/flappybird.git
+$ cd flappybird
+$ python3 flappy_bird.py
+```
 ## Technologies
 * Python 3
 * Pygame
