@@ -23,6 +23,9 @@ $ python3 -m venv venv
 $ . venv/bin/activate
 $ pip install -r requirements.txt
 $ python flappy_bird.py
+```
+To exit venv type in the console:
+```
 $ deactivate
 ```
 ## Technologies
